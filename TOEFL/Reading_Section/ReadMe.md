@@ -18,8 +18,7 @@ words, each question is placed in relation to where the answer is in the reading
 
 <img src="https://user-images.githubusercontent.com/12064832/203115594-a1bf5d8f-58a8-443f-9421-a7534f901800.png" width=600 />
 
-![image](https://user-images.githubusercontent.com/12064832/203116346-f31ad056-0969-459c-9315-b6865a6cbd22.png)
-
+<img src="https://user-images.githubusercontent.com/12064832/203116346-f31ad056-0969-459c-9315-b6865a6cbd22.png" width=600 />
 
 ---
 
