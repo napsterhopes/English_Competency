@@ -21,3 +21,14 @@ words, each question is placed in relation to where the answer is in the reading
 ![image](https://user-images.githubusercontent.com/12064832/203116346-f31ad056-0969-459c-9315-b6865a6cbd22.png)
 
 
+---
+
+#### We are going to:
+
+- Identify different reading question types
+- Understand how to manage time
+- Build vocab skills for the TOEFL reading
+- Learn to read actively
+- Use keywords to increase speed and efficiency
+- Discern between correct and incorrect choices
+
