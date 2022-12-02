@@ -23,4 +23,14 @@ In this section , we are going to:
 5. Record hard-to-remember information in notes
 6. Improve focus
 
+---
+
+- 3-4 lectures , 6 questions each
+- 2-3 conversations , 5 questions each
+- 41-57 minutes
+
+---
+#### Homework
+
+Identify each question type in the listening section of TST Prep’s [Diagnostic Test](https://github.com/napsterhopes/English_Competency/blob/main/TOEFL/Diagnostic%2BTest.pdf). (15 minutes)
 
