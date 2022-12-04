@@ -34,3 +34,20 @@ In this section , we are going to:
 
 Identify each question type in the listening section of TST Prep’s [Diagnostic Test](https://github.com/napsterhopes/English_Competency/blob/main/TOEFL/Diagnostic%2BTest.pdf). (15 minutes)
 
+> How many question types are there in the TOEFL Listening section? 
+- 8
+
+> How many passages will you have to listen to in the listening section? 
+- 5
+
+> How many questions follow conversation-style and lecture-style passages? 
+- Conversations are always followed by five questions and lectures always by six.
+
+
+
+
+
+
+
+
+
