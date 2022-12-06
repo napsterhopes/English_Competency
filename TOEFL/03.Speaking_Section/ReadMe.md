@@ -28,7 +28,7 @@ Refer more speaking tests @ Tstprep.com
 ---
 #### Section structure
 
-- 4 questions: 1 independant and 3 integrated
+- 4 questions(17 minutes): 1 independant and 3 integrated
 
 > Question types
 
