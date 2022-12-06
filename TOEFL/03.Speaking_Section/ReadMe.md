@@ -32,10 +32,16 @@ Refer more speaking tests @ Tstprep.com
 
 > Question types
 
-- Independant free-choice
+- ~~Independant free-choice~~
 - Independant paired-choice
 - Integrated campus conversation(read/listen)
 - Integrated academic lecture (read/listen)
-- Integrated campus conversation (listen only)
+- ~~Integrated campus conversation (listen only)~~
 - Integrated academic lecture (listen only)
 
+---
+
+#### Your Mindset
+Before you begin to study for the TOEFL exam, it’s important to understand your own thoughts and feelings towards education. Specifically speaking, we need to see how you feel about your own potential. Once you understand your beliefs a bit better, you will be more likely to succeed in your TOEFL studies.
+
+Take the [mindset quiz](https://github.com/napsterhopes/English_Competency/blob/main/TOEFL/03.Speaking_Section/Mindset%2BQuestionnaire.pdf) and discover if you have a fixed mindset or a growth mindset.
