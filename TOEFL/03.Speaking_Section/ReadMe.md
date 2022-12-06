@@ -24,3 +24,18 @@ By the end of this section you will be able to :
 And we're going to do all this in about 80 minutes.
 
 Refer more speaking tests @ Tstprep.com
+
+---
+#### Section structure
+
+- 4 questions: 1 independant and 3 integrated
+
+> Question types
+
+- Independant free-choice
+- Independant paired-choice
+- Integrated campus conversation(read/listen)
+- Integrated academic lecture (read/listen)
+- Integrated campus conversation (listen only)
+- Integrated academic lecture (listen only)
+
