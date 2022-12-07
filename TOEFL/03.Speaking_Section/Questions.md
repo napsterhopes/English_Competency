@@ -76,3 +76,7 @@ You're going to report the news.
 3. Listen to interviews
 4. Report on opinions and supporting reasons
 
+- Sample questions (50secs to read each passage):
+<img src="https://user-images.githubusercontent.com/12064832/206089999-553bfbcc-215a-4f10-8dd4-4b60b17ae2b1.png" width=600/>
+
+<img src="https://user-images.githubusercontent.com/12064832/206090172-37dc929e-ce55-4e82-937a-574460a80248.png" width=600/>
