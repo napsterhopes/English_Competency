@@ -36,11 +36,29 @@ So we write hints of the things that you want to cover as part of your answer.
 
 Here is a sample note that i prepared:
 
-- * O:  
+- *O:  
 - R1: boring 
 - Ex 1: NY schol , sme evryday 
 - R2: exctng  (I want to switch to some exciting jobs)
 - Ex2: Jpn,kds (Like i want to move to Japan and work with kids)
 
 <img src="https://user-images.githubusercontent.com/12064832/206087434-010b286a-fe05-4c11-b845-ddc188b313fb.png" width=600/>
+
+---
+
+### Grading Rubrics
+Speaking and writing grading rubric tools for self study
+
+<img src="https://user-images.githubusercontent.com/12064832/206088099-ecea4e0e-1fbf-416e-9cc6-d4dc96eddf6a.png" width=600/>
+
+<img src="https://user-images.githubusercontent.com/12064832/206088277-80270db2-e82f-4314-aac4-3b632aaf9621.png" width=600/>
+
+- Make sure your delivery is smooth and it doesn't have pauses like `u` , `um` , `etc`.
+
+#### Tips
+1. Connect emotionally
+2. Manage your time 
+3. Relate information back to the topic
+4. Provide personal examples
+
 
