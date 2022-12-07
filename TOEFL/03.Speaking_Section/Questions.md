@@ -42,4 +42,5 @@ Here is a sample note that i prepared:
 - R2: exctng  (I want to switch to some exciting jobs)
 - Ex2: Jpn,kds (Like i want to move to Japan and work with kids)
 
-<img src="https://user-images.githubusercontent.com/12064832/206087042-8d79bd79-fb9c-4a73-865e-e0592fafb284.png" width=600/>
+<img src="https://user-images.githubusercontent.com/12064832/206087434-010b286a-fe05-4c11-b845-ddc188b313fb.png" width=600/>
+
