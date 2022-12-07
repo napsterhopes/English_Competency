@@ -16,5 +16,13 @@
 
 <img src="https://user-images.githubusercontent.com/12064832/206081557-7328da3b-558f-4a1f-abe4-05dd0d45b776.png" width=600/>
 
+- *  marked rows are optional.You can respond with either two reasons and examples or one.
 
+- answering above question:
+- Above question is pretty straightforward and a typical 5 sec response could be `I want to switch every five years because it's interesting.`
+But you have to speak for forty five seconds.That is more difficult and very unnatural.
+
+<img src="https://user-images.githubusercontent.com/12064832/206085350-e3e8e943-36d2-40c6-82ff-279995543261.png" width=600/>
+
+![image](https://user-images.githubusercontent.com/12064832/206085948-0604f96d-7aca-4d13-ad2d-924d0ba7ba33.png)
 
