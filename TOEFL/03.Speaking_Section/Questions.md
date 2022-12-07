@@ -82,6 +82,7 @@ You're going to report the news.
 <img src="https://user-images.githubusercontent.com/12064832/206090172-37dc929e-ce55-4e82-937a-574460a80248.png" width=600/>
 
 After the passage there is a question : 
+
 <img src="https://user-images.githubusercontent.com/12064832/206090528-81600579-36fb-439e-95ff-d05c09667784.png" width=600/>
 
 #### Preparing your response
