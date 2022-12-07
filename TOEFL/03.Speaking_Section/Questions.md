@@ -46,7 +46,7 @@ Here is a sample note that i prepared:
 
 ---
 
-### Grading Rubrics
+### [Grading Rubrics](https://github.com/napsterhopes/English_Competency/blob/main/TOEFL/03.Speaking_Section/Speaking%2Band%2BWriting%2BGrading%2BRubric.pdf)
 Speaking and writing grading rubric tools for self study
 
 <img src="https://user-images.githubusercontent.com/12064832/206088099-ecea4e0e-1fbf-416e-9cc6-d4dc96eddf6a.png" width=600/>
@@ -61,4 +61,18 @@ Speaking and writing grading rubric tools for self study
 3. Relate information back to the topic
 4. Provide personal examples
 
+---
+
+### Question 2
+
+<img src="https://user-images.githubusercontent.com/12064832/206089437-b4796b7a-96d4-44d2-b2cf-6b9e59757a4d.png" width=600/>
+
+For question 2, it's very important that you think like a reporter.
+A reporter's job is to report the news, and that's what you're doing for speaking question number two.
+You're going to report the news.
+
+1. Identify the new rule or change
+2. Find the reasons for the change
+3. Listen to interviews
+4. Report on opinions and supporting reasons
 
