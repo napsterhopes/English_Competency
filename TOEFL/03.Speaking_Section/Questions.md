@@ -158,6 +158,8 @@ Notes are **not** as important as comprehension. Understand first,write second.
 
 <img src="https://user-images.githubusercontent.com/12064832/206097832-8d57d733-2f75-4a7e-a99f-3b7bc922b3c8.png" width=600/>
 
+#### Preparing your response
+
 1. Introduce and define the topic
 2. State and expand on the first example
 3. State and expand on the second example
@@ -166,3 +168,4 @@ Notes are **not** as important as comprehension. Understand first,write second.
 <img src="https://user-images.githubusercontent.com/12064832/206099475-688cf930-7a8a-4513-94a3-984fe4a003bc.png" width=600/>
 
 <img src="https://user-images.githubusercontent.com/12064832/206099666-c88df5fe-36d0-4deb-8f48-7a96d48a58b7.png" width=600/>
+
