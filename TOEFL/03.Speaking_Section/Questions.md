@@ -169,3 +169,9 @@ Notes are **not** as important as comprehension. Understand first,write second.
 
 <img src="https://user-images.githubusercontent.com/12064832/206099666-c88df5fe-36d0-4deb-8f48-7a96d48a58b7.png" width=600/>
 
+---
+### Question 4
+
+<img src="https://user-images.githubusercontent.com/12064832/206353177-80e34589-341f-469c-95e7-f39598998711.png" width=600/>
+
+
