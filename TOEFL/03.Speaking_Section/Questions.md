@@ -174,4 +174,15 @@ Notes are **not** as important as comprehension. Understand first,write second.
 
 <img src="https://user-images.githubusercontent.com/12064832/206353177-80e34589-341f-469c-95e7-f39598998711.png" width=600/>
 
+- Sample :
+
+<img src="https://user-images.githubusercontent.com/12064832/206748518-a04b1155-78ed-4784-a0ed-8e67cca4dd1a.png" width=600/>
+
+- Notes:
+
+<img src="https://user-images.githubusercontent.com/12064832/206749707-2c8ade03-92c9-494d-b9a8-abe18efca5a6.png" width=600/>
+
+Topic usually they say right in the beginning or within in the first 20 or 30 seconds because it's a short passage and they need to give you some information about it.
+
+<img src="https://user-images.githubusercontent.com/12064832/206749100-9e7e11d3-5904-47a0-94cc-e10bf6bd9286.png" width=600/>
 
