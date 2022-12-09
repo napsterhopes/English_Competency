@@ -186,3 +186,16 @@ Topic usually they say right in the beginning or within in the first 20 or 30 se
 
 <img src="https://user-images.githubusercontent.com/12064832/206749100-9e7e11d3-5904-47a0-94cc-e10bf6bd9286.png" width=600/>
 
+<img src="https://user-images.githubusercontent.com/12064832/206750020-eb3eb7a4-16be-4ff2-b9ea-9805b90269ef.png" width=600/>
+
+<img src="https://user-images.githubusercontent.com/12064832/206750219-a11b33af-9fd0-408d-9e00-9fed3efe4ec0.png" width=600/>
+
+#### Giving your response
+
+1. Develop a +ve inner coach
+2. Speak with interest and enthusiasm
+3. Record your response
+4. Don't read your notes
+
+
+
