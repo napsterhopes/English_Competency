@@ -12,4 +12,5 @@ We are going to:
 
 > Homework
 
-Write an integrated essay from TST Prep Test #11, which is task #1 in the writing section. (30 minutes)
+Write an integrated essay from TST Prep Test #11, which is task #1 in [the writing section](https://drive.google.com/file/d/1PgwfIjnW2HbrQveBNl4zYyJdi0s1QACO/view?usp=share_link). (30 minutes)
+
