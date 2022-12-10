@@ -20,7 +20,7 @@ Write an integrated essay from TST Prep Test #11, which is task #1 in [the writi
 <img src="https://user-images.githubusercontent.com/12064832/206860727-0503d1be-ccc7-4f17-986e-9f43253c165e.png" width=600 />
 
 1. Integrated essay
-2. 
+2. Independent essay
 
 
 
