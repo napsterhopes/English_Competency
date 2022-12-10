@@ -13,3 +13,8 @@
 #### Free tests
 
 - [ETS TOEFL Practice test](https://www.ets.org/toefl/test-takers/ibt/prepare/practice-tests.html)
+
+
+#### Remember
+
+- You cannot revisit a audio clip or any section
