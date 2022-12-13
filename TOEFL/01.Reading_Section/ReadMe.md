@@ -18,6 +18,9 @@ words, each question is placed in relation to where the answer is in the reading
 
 <img src="https://user-images.githubusercontent.com/12064832/203115594-a1bf5d8f-58a8-443f-9421-a7534f901800.png" width=600 />
 
+#### How should you read the text?
+Read the first sentences of every paragraph and the last sentence of the introduction.Optionally,also read the last sentence of the conclusion.
+
 ---
 
 #### We are going to:
