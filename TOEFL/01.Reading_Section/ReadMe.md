@@ -6,7 +6,7 @@ However, when you register for the TOEFL, you will be asked about
 your field of study. Expect to have topics that are somewhat related to your major. Possible academic
 topics include, architecture, biology, astronomy, physics, anthropology, American history, meteorology, etc.
 
-<img src="https://user-images.githubusercontent.com/12064832/203114915-0d1e0628-c24b-4215-9dba-f4e8343cb669.png" width=400 />
+<img src="https://user-images.githubusercontent.com/12064832/209083894-64eaaddf-4fbc-41d2-ab67-2d09a6a8b027.png" width=400 />
 
 - Reading 2100 words and answering 30 questions in 54 minutes is tough. You probably will
 not have enough time to read the passage and then answer the questions. The questions are arranged in
